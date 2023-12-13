@@ -42,8 +42,8 @@ dependencies:
     specifier: ^8.11.0
     version: 8.11.0
   reflect-metadata:
-    specifier: ^0.1.13
-    version: 0.1.13
+    specifier: ^0.2.0
+    version: 0.2.0
   type-graphql:
     specifier: ^1.1.1
     version: 1.1.1(class-validator@0.14.0)(graphql@15.8.0)
@@ -5141,6 +5141,10 @@ packages:
 
   /reflect-metadata@0.1.13:
     resolution: {integrity: sha512-Ts1Y/anZELhSsjMcU605fU9RE4Oi3p5ORujwbIKXfWa+0Zxs510Qrmrce5/Jowq3cHSZSJqBjypxmHarc+vEWg==}
+    dev: false
+
+  /reflect-metadata@0.2.0:
+    resolution: {integrity: sha512-vUN0wuk3MuhSVMfU/ImnPQAK8QZcXJ339DtVsP3jDscxCe6dT+PsOe3J1BYS9Ec2Fd4oC6ry6bCBebzTya0IYw==}
     dev: false
 
   /regenerator-runtime@0.13.11:
